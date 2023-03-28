@@ -33,14 +33,8 @@ I'm Mohamed Tharwat.
 
 <!--🔗 &nbsp;**Connect with me** -->
 <p align="center">
- 
- 
 <a href="https://linkedin.com/in/mohamed-tharwat-838a2210a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Richard's LinkedIn" height="30" width="40" /></a>
-
-
 <a href="https://www.hackerrank.com/m_tharwat897" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="4822855" height="30" width="40" /></a>
-
- 
 </p>
   
 <br/>
