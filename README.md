@@ -14,7 +14,6 @@ I'm Mohamed Tharwat.
   - Typescript (NodeJS, <a href="https://nestjs.com">NestJS</a>)
 
 
-
 - Have experience with:
   - C#
   - Windows Forms
@@ -41,8 +40,8 @@ I'm Mohamed Tharwat.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedtharwat8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Mohamedtharwat's github stats](https://github-readme-stats.vercel.app/api?username=Mohamedtharwat8&show_icons=true&theme=radical)
- -->
+![Mohamedtharwat's github stats](https://github-readme-stats.vercel.app/api?username=Mohamedtharwat8&show_icons=true&theme=radical)
+ 
 
 <p> 
   Visitor count<br>
