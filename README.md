@@ -5,7 +5,7 @@
 
 I'm Mohamed Tharwat.
 
-- 🔭 I’m currently working as Software Developer as A Freelancer</a>.
+- 🔭 I’m currently working as Software Developer </a>.
  Focused on:
   - C#
   - .Net Core
