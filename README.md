@@ -5,10 +5,10 @@
 
 I'm Mohamed Tharwat.
 
-- 🔭 I’m currently working as Software Developer </a>.
+- 🔭 I’m currently working as a Software Developer </a>.
  Focused on:
   - C#
-  - .Net Core
+  - .NET Core
   - REST API
   - Angular
   - Typescript (NodeJS, <a href="https://nestjs.com">NestJS</a>)
@@ -16,15 +16,19 @@ I'm Mohamed Tharwat.
 
 - Have experience with:
   - C#
-  - Windows Forms
-  - WPF
+  - Nodejs
+  - DDD
   - Javascript
   - SQL Server
-  - .Net Core, API
+  - .NET Core, API
   - Clean Architecture
   - Microservices on Azure
-  - Azure Devops
+  - Azure DevOps
   - CI/CD
+  - Payment Domain
+  - ERP
+  - Integration with Oracle Fusion
+  - 
 
 
 
