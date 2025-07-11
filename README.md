@@ -11,7 +11,7 @@ I'm Mohamed Tharwat.
   - .NET Core
   - REST API
   - Angular
-  - Typescript (NodeJS, <a href="https://nestjs.com">NestJS</a>)
+  - Typescript (NodeJS)
 
 
 - Have experience with:
