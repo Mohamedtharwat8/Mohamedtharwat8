@@ -20,14 +20,12 @@ I'm Mohamed Tharwat.
   - WPF
   - Javascript
   - SQL Server
-
-
-- I’m currently learning:
-  - More about C#/.Net Core
+  - .Net Core, API
   - Clean Architecture
   - Microservices on Azure
   - Azure Devops
-  - How to Write Techinical Documentation 
+  - CI/CD
+
 
 
 <!--🔗 &nbsp;**Connect with me** -->
