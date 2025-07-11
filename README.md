@@ -5,7 +5,7 @@
 
 I'm Mohamed Tharwat.
 
-- 🔭 I’m currently working as a Software Developer </a>.
+- 🔭 I’m currently working as a Senior Full Stack Developer </a>.
  Focused on:
   - C#
   - .NET Core
