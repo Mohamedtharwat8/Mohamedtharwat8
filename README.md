@@ -28,7 +28,7 @@ I'm Mohamed Tharwat.
   - Payment Domain
   - ERP
   - Integration with Oracle Fusion
-  - 
+    
 
 
 
